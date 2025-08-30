@@ -74,4 +74,12 @@
 
 ---
 
-<p align="center">✨ Thank you for visiting my profile! Let’s build something awesome together. 🚀</p>
+<h3 align="center">✨ Thank you for visiting my profile! Let’s build something awesome together. 🚀</h3>
+
+---
+
+<p align="center">
+ <img width="1000" src="github-snake.svg" alt="snake"/>
+</p>
+
+
